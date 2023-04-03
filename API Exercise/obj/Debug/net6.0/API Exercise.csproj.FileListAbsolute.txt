@@ -1,0 +1,27 @@
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\appsettings.json
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\API Exercise.exe
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\API Exercise.deps.json
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\API Exercise.runtimeconfig.json
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\API Exercise.dll
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\API Exercise.pdb
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.csproj.AssemblyReference.cache
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.AssemblyInfoInputs.cache
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.AssemblyInfo.cs
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.csproj.CoreCompileInputs.cache
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\scopedcss\bundle\API Exercise.styles.css
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.csproj.CopyComplete
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.dll
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\refint\API Exercise.dll
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.pdb
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\API Exercise.genruntimeconfig.cache
+C:\Users\owens\OneDrive\Documents\Work Code\Pradco\Moultrie Intro\Moultrie-Mobile-Internship-Preperation\API Exercise\obj\Debug\net6.0\ref\API Exercise.dll

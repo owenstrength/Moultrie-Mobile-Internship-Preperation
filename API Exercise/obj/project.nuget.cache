@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z0xO9s/dsVb154hljfRIhEk4n4kwSClqk5EdHCO2uxHFJ7/k+Ek+8reIbabLjZeFbYk6f3eGBhlbnLULkNBU7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\owens\\OneDrive\\Documents\\Work Code\\Pradco\\Moultrie Intro\\Moultrie-Mobile-Internship-Preperation\\API Exercise\\API Exercise.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\owens\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\owens\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\owens\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\owens\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\owens\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\owens\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
